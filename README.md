@@ -1,4 +1,16 @@
 # problem-test
+Create a new repository and name it "problem-solving", this repository will contain all of your problem solving exercises solutions.
+
+initialize your repository with:
+- README, 
+- add .ignore and choose "node"
+- Choose a license "MIT license"
+
+clone your repository in your local machine,
+
+Create a new branch named "exercise01",
+
+while solving these exercises, you will run some tests to confirm your solution, please follow the steps below before starting solving the problem:
 
 
 1. create a file named "package.json"
